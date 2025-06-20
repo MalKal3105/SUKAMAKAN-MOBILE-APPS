@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "923147601297",
+    "firebase_url": "https://sukamakan-9786a-default-rtdb.firebaseio.com",
+    "project_id": "sukamakan-9786a",
+    "storage_bucket": "sukamakan-9786a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923147601297:android:b17a4b9928e1d5c1450630",
+        "android_client_info": {
+          "package_name": "com.example.sukamakan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923147601297-mufq002dn953gf26p9di45r9met0gsjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgoonG-lGzydMrl6bWLXqrW8_P1UiUHpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923147601297-mufq002dn953gf26p9di45r9met0gsjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
